@@ -82,6 +82,9 @@ blackpanther.txt
 
 ## Output
 
+![Zero Shot Classification Graph](images/zeroshotclassificationgraph.png)
+![Co-occurrence Network](images/cooccurrence50graph.png)
+
 The notebook generates:
 
 - Most frequent non-stopwords
